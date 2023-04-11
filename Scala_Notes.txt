@@ -1,0 +1,30 @@
+Scala is an acronym for Scalable language
+Scala is made to express common programming patterns 
+in a concise,elegant, and type-safe way. 
+Scala is written by Martin odersky at EPFL.
+Statically Type. Holds the value of the type defined. 
+Runs on JVM. 
+Object oriented.
+Functional
+Dynamic features
+Scala Blends OOPS and Functional programming.
+
+why to learn Scala ?
+Scala is practical. we can make java scala projects. 
+We can use java projects, libraries. 
+
+
+SBT :- Scala Build Tool/Simple Build Tool. 
+
+Build Tool to compile,run, test projects. 
+
+SBT have native support for compiling Scala Code. 
+Apache Ivy for Dependency management. 
+Only Update on request Model. 
+
+Full Scala Language Support for creating tasks. 
+REPL - Read Evaluate Print Loop
+
+
+VAL :- immutable
+VAR :- Mutable
