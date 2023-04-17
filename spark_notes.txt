@@ -1,0 +1,16 @@
+Apache Spark is a unified analytics engine for large-scale data processing.
+Spark Connect :-
+  from Python :- 
+    from pyspark.sql import SparkSession    
+    spark = SparkSession.builder.getOrCreate()
+ from Scala :- 
+    sparkContext()  [RDD] / or
+    import org.apache.spark.sql.SparkSession [DF/SQL]
+    val spark = SparkSession.builder().remote("sc://localhost").build()
+    
+    sc.textFile() # create RDD from textfile.
+    
+    
+    for createDataFrame, have to pass the data and schema (Structype :- list of structfield)
+    
+    
